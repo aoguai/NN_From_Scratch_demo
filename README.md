@@ -42,6 +42,11 @@ NN_From_Scratch_demo<br>
   
 #### 源码介绍
  如果你也想入门的话建议从 **NN_From_Scratch.py** 部分开始浏览代码,这里实现了该demo的主要功能
+ 
+**效果展示：**
+
+![效果1](https://github.com/aoguai/NN_From_Scratch_demo/blob/main/images/1.png)
+![效果2](https://github.com/aoguai/NN_From_Scratch_demo/blob/main/images/2.png)
 
 
 ## 参考
