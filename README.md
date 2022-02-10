@@ -45,5 +45,5 @@ NN_From_Scratch_demo<br>
 
 
 ## 参考
-[【B站视频系列-从零开始的神经网络](https://space.bilibili.com/28496477/channel/seriesdetail?sid=1267418)
+[【B站视频系列-从零开始的神经网络】](https://space.bilibili.com/28496477/channel/seriesdetail?sid=1267418)<br>
 [YQGong/NN_From_Scratch:](https://github.com/YQGong/NN_From_Scratch)
