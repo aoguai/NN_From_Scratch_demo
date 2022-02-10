@@ -1,14 +1,14 @@
 # NN_From_Scratch_demo
 一个从零开始的神经网络识别手写数字demo
 ## 起因
-一直对AI，人工智能，深度学习方面比较感兴趣，偶然间在B站看到这样一个系列视频[《B站视频系列-从零开始的神经网络》](https://space.bilibili.com/28496477/channel/seriesdetail?sid=1267418)，于是一口气追完，边看边跟着写代码，写出了一个小demo。
+一直对AI，人工智能，深度学习方面比较感兴趣，偶然间在B站看到这样一个系列视频[《B站视频系列-从零开始的神经网络》](https://space.bilibili.com/28496477/channel/seriesdetail?sid=1267418)，于是一口气追完，边看边跟着写代码，写出了一个小demo
 
 ## 原理
 才疏学浅，暂未更新，可以去看看[原系列教程](https://space.bilibili.com/28496477/channel/seriesdetail?sid=1267418)，先占个位置，等我学透彻了再回来更新
 
 
 ## 源码
-[原作者仓库](https://github.com/YQGong/NN_From_Scratch)的代码与实际视频教程的有出入而且功能不齐全。
+[原作者仓库](https://github.com/YQGong/NN_From_Scratch)的代码与实际视频教程的有出入而且功能不齐全<br>
 在自己摸索下，写了一个相对完整的demo且有相对完整的注释，特此开源供各位参考学习
 ### 实现功能
 + 新建模型并训练
