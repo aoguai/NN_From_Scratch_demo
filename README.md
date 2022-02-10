@@ -1,0 +1,2 @@
+# NN_From_Scratch_demo
+一个从零开始的神经网络识别手写数字demo
